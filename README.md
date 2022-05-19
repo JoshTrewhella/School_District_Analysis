@@ -18,21 +18,22 @@ During our meeting with Maria, she asked us to assist in analyzing the data of t
     ![alt text](Resources/School_Summary_without_THS.PNG)
     - We can see that changing the 9th grade scores to NaNs, only changed THS's overall passing percentage by less than 1% and didn't change the rankings at all. 
   - How does replacing the ninth-grade scores affect the following:
-    - we can see in the school summary tables, that the math and reading scores
-    - ![alt text](Resources/School_Summary_without_THS.PNG)
-  - Math and reading scores by grade
-    - Math Scores by Grade
+    - Math and reading scores by grade
+      - Math Scores by Grade
     
-      ![alt text](Resources/math_scores_by_grade.PNG)
-    - Reading Scores by Grade
+        ![alt text](Resources/math_scores_by_grade.PNG)
+      - Reading Scores by Grade
     
-      ![alt text](Resources/reading_scores_by_grade.PNG) 
-    -asdf
-    
-    -asdf
-    
-    -asdf
-    
-    -asdf
+        ![alt text](Resources/reading_scores_by_grade_fixed.PNG)  
+    - Scores by School Size
+      - With THS scores
+        ![alt text](Resources/scores_by_size_with_THS.PNG)   
+      - Without THS scores
+        ![alt text](Resources/scores_by_size_without_THS.PNG)  
+    - Scores by School Type 
+      - With THS scores
+        ![alt text](Resources/type_with_THS.PNG)   
+      - Without THS scores
+        ![alt text](Resources/type_without_THS.PNG)      
   
 ## Summary
