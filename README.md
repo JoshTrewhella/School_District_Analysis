@@ -37,3 +37,4 @@ During our meeting with Maria, she asked us to assist in analyzing the data of t
         ![alt text](Resources/type_without_THS.PNG)      
   
 ## Summary
+Due to the little change that replacing the THS scores with NaNs created there wasn't many things that changed. If score changes were more significant this would effect the rankings of the schools, which would effect the budgets along with the spending per student. However, what did change are the average math and reading score along with the overall passing scores. This negatively effected the THS scores.
